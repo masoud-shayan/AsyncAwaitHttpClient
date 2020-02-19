@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\AsyncConsole\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.pdb
